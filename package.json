@@ -18,7 +18,6 @@
   "homepage": "https://github.com/dconchamz/commitlint-test#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
-    "@commitlint/config-conventional": "^16.2.4",
-    "husky": "^7.0.4"
+    "@commitlint/config-conventional": "^16.2.4"
   }
 }
